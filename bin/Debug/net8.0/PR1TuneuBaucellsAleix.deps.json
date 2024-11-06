@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PR1TuneuBaucellsAleix/1.0.0": {
+        "runtime": {
+          "PR1TuneuBaucellsAleix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PR1TuneuBaucellsAleix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

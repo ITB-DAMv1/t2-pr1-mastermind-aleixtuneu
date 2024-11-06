@@ -1,0 +1,14 @@
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\bin\Debug\net8.0\PR1TuneuBaucellsAleix.exe
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\bin\Debug\net8.0\PR1TuneuBaucellsAleix.deps.json
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\bin\Debug\net8.0\PR1TuneuBaucellsAleix.runtimeconfig.json
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\bin\Debug\net8.0\PR1TuneuBaucellsAleix.dll
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\bin\Debug\net8.0\PR1TuneuBaucellsAleix.pdb
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\obj\Debug\net8.0\PR1TuneuBaucellsAleix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\obj\Debug\net8.0\PR1TuneuBaucellsAleix.AssemblyInfoInputs.cache
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\obj\Debug\net8.0\PR1TuneuBaucellsAleix.AssemblyInfo.cs
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\obj\Debug\net8.0\PR1TuneuBaucellsAleix.csproj.CoreCompileInputs.cache
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\obj\Debug\net8.0\PR1TuneuBaucellsAleix.dll
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\obj\Debug\net8.0\refint\PR1TuneuBaucellsAleix.dll
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\obj\Debug\net8.0\PR1TuneuBaucellsAleix.pdb
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\obj\Debug\net8.0\PR1TuneuBaucellsAleix.genruntimeconfig.cache
+C:\Users\aleix\OneDrive\Escritorio\DAMv\M03 Programació\T2\PR1TuneuBaucellsAleix\PR1TuneuBaucellsAleix\obj\Debug\net8.0\ref\PR1TuneuBaucellsAleix.dll
