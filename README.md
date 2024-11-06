@@ -1,4 +1,4 @@
-## Constants de Missatges
+# Constants de Missatges
 
 ````
 const string MSGHELLO = "Benvingut al Mastermind!";
