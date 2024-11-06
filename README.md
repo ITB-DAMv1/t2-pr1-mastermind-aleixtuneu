@@ -53,7 +53,7 @@ Aqui es defineixen les variables que es fan servir dins del programa:
 - **pista**: La pista que es dona al jugador després de cada intent.
 
 
-# Bienvinguda i Selecció de Dificultat
+# Benvinguda i Selecció de Dificultat
 
 ````
 Console.WriteLine(MSGHELLO);
